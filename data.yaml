@@ -1,0 +1,29 @@
+- name: Unity Learn
+  url: https://unity.com/learn	
+  tags: [tutorial, learn, 3d, 2d]
+  description: Learn Unity faster and easier than ever with Unity’s new learning platform and projects like Ruby’s Adventure 2D. With Unity Learn you can track your progress through this and all of Unity’s award-winning tutorials.
+
+- name: Unify Community
+  url: http://wiki.unity3d.com/index.php/Main_Page
+  tags: [tutorial, learning, 3d, 2d]
+  description: The UnifyWiki project is a site where you can expand your knowledge about Unity. It is meant for anyone to contribute, so if you know something we don't, go ahead and make a page about it.
+
+- name: Unity3D College
+  url: https://unity3d.college/ 
+  tags: [tutorial, youtube, learn]
+  description: This channel is dedicated to helping game developers be better at game development. I like to teach a bit of everything, from the getting started and beginner style stuff to advanced  techniques and patterns
+
+- name: Brackeys
+  url: https://www.youtube.com/user/Brackeys/
+  tags: [tutorial, youtube, learn]
+  description: Learn how to make video games! Top-quality game development tutorials on everything from Unity and programming to game design. If you want to become a developer this channel will help guide you through it!
+
+- name: Game Maker's Tool Kit
+  url: https://www.youtube.com/user/McBacon1337
+  tags: [design, youtube, learn, game]
+  description: Game Maker's Toolkit is a deep dive into game design, level design, and game production, hosted by Mark Brown. I, [Mark Brown], am a former games journalist (Edge, Eurogamer, Wired, Pocket Gamer, The Escapist), but now I guess I’m a YouTuber. I write, edit, and present Game Maker’s Toolkit a series about video game design.
+
+- name: DevAssets	
+  url: http://devassets.com/
+  tags: [assets, dev, free]
+  description: Quality assets for everyone
